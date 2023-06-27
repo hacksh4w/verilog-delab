@@ -1,7 +1,7 @@
 # Verilog & TestBench code for Digital Lab 
 
 
-### Basic Gates
+## Basic Gates
 - AND
 - OR
 - NOT
@@ -10,14 +10,14 @@
 - NOR
 - XNOR
 
-### Code Convertes
+## Code Convertes
 - Binary 2 grey
 - Grey 2 Binary
 
-### Adders 
+## Adders 
 - Half Adder
 - Full Adder
 
-# MUX-DEMUX
+## MUX-DEMUX
 - 4:1 MUX
 - 1:4 DEMUX
