@@ -1,4 +1,4 @@
-# verilog-delab
+# Verilog & TestBench code for Digital Lab 
 
 
 ### Basic Gates
