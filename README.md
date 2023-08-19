@@ -21,3 +21,7 @@
 ## MUX-DEMUX
 - 4:1 MUX
 - 1:4 DEMUX
+
+### Some lab exam qns
+- Realize an 8:1 MUX using two 4:1 Mux and a 2:1 Mux
+- 
